@@ -1,0 +1,28 @@
+<svg width="100%" viewBox="0 0 680 260" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Pet rarity tiers and base value ranges</title>
+<desc>Bar chart showing base value ranges for each rarity tier</desc>
+
+<text x="40" y="30" font-family="sans-serif" font-size="14" font-weight="500" fill="#2C2C2A">Base value by rarity tier</text>
+
+<text x="40" y="61" font-family="sans-serif" font-size="12" fill="#5F5E5A">Common</text>
+<rect x="130" y="46" width="60" height="20" rx="4" fill="#F1EFE8" stroke="#888780" stroke-width="0.5"/>
+<text x="198" y="61" font-family="sans-serif" font-size="12" fill="#5F5E5A">  0.5</text>
+
+<text x="40" y="101" font-family="sans-serif" font-size="12" fill="#5F5E5A">Uncommon</text>
+<rect x="130" y="86" width="120" height="20" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="258" y="101" font-family="sans-serif" font-size="12" fill="#5F5E5A">  0.5 – 1.0</text>
+
+<text x="40" y="141" font-family="sans-serif" font-size="12" fill="#5F5E5A">Rare</text>
+<rect x="130" y="126" width="180" height="20" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="318" y="141" font-family="sans-serif" font-size="12" fill="#5F5E5A">  1.0 – 3.0</text>
+
+<text x="40" y="181" font-family="sans-serif" font-size="12" fill="#5F5E5A">Ultra-rare</text>
+<rect x="130" y="166" width="280" height="20" rx="4" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+<text x="418" y="181" font-family="sans-serif" font-size="12" fill="#5F5E5A">  3.0 – 5.0</text>
+
+<text x="40" y="221" font-family="sans-serif" font-size="12" fill="#5F5E5A">Legendary</text>
+<rect x="130" y="206" width="440" height="20" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="578" y="221" font-family="sans-serif" font-size="12" fill="#5F5E5A">  3.5 – 25.0+</text>
+
+<text x="40" y="250" font-family="sans-serif" font-size="11" fill="#B4B2A9">Values are community estimates and subject to change</text>
+</svg>
